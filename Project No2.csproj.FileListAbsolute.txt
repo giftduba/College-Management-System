@@ -1,0 +1,50 @@
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\bin\Release\Project No2.exe.config
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\obj\Release\Project_No2.Form1.resources
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\obj\Release\Project_No2.Form2.resources
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\obj\Release\Project_No2.Form3.resources
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\obj\Release\Project_No2.Properties.Resources.resources
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\obj\Release\Project No2.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\obj\Release\Project No2.TrustInfo.xml
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\obj\Release\Project No2.exe
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\obj\Release\Project No2.pdb
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\bin\Release\Project No2.exe.manifest
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\bin\Release\Project No2.application
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\bin\Release\Project No2.exe
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\bin\Release\Project No2.pdb
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\obj\Release\Project No2.exe.manifest
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\obj\Release\Project No2.application
+C:\Users\User\Desktop\KEREN CD\Project No2\Project No2\obj\Release\Project No2.csprojAssemblyReference.cache
+D:\KEREN CD\Project No2\Project No2\bin\Release\Project No2.exe.config
+D:\KEREN CD\Project No2\Project No2\bin\Release\Project No2.exe.manifest
+D:\KEREN CD\Project No2\Project No2\bin\Release\Project No2.application
+D:\KEREN CD\Project No2\Project No2\bin\Release\Project No2.exe
+D:\KEREN CD\Project No2\Project No2\bin\Release\Project No2.pdb
+D:\KEREN CD\Project No2\Project No2\obj\Release\Project No2.csproj.AssemblyReference.cache
+D:\KEREN CD\Project No2\Project No2\obj\Release\Project_No2.Form1.resources
+D:\KEREN CD\Project No2\Project No2\obj\Release\Project_No2.Form2.resources
+D:\KEREN CD\Project No2\Project No2\obj\Release\Project_No2.Form3.resources
+D:\KEREN CD\Project No2\Project No2\obj\Release\Project_No2.Properties.Resources.resources
+D:\KEREN CD\Project No2\Project No2\obj\Release\Project No2.csproj.GenerateResource.cache
+D:\KEREN CD\Project No2\Project No2\obj\Release\Project No2.csproj.CoreCompileInputs.cache
+D:\KEREN CD\Project No2\Project No2\obj\Release\Project No2.TrustInfo.xml
+D:\KEREN CD\Project No2\Project No2\obj\Release\Project No2.exe.manifest
+D:\KEREN CD\Project No2\Project No2\obj\Release\Project No2.application
+D:\KEREN CD\Project No2\Project No2\obj\Release\Project No2.exe
+D:\KEREN CD\Project No2\Project No2\obj\Release\Project No2.pdb
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\bin\Release\Project No2.exe.config
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\bin\Release\Project No2.exe.manifest
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\bin\Release\Project No2.application
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\bin\Release\Project No2.exe
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\bin\Release\Project No2.pdb
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\obj\Release\Project No2.csproj.AssemblyReference.cache
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\obj\Release\Project_No2.Form1.resources
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\obj\Release\Project_No2.Form2.resources
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\obj\Release\Project_No2.Form3.resources
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\obj\Release\Project_No2.Properties.Resources.resources
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\obj\Release\Project No2.csproj.GenerateResource.cache
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\obj\Release\Project No2.csproj.CoreCompileInputs.cache
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\obj\Release\Project No2.TrustInfo.xml
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\obj\Release\Project No2.exe.manifest
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\obj\Release\Project No2.application
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\obj\Release\Project No2.exe
+C:\Users\giftd\OneDrive\Desktop\new project\Project No2\Project No2\obj\Release\Project No2.pdb
